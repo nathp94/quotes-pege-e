@@ -10,3 +10,6 @@ A python program that generates programming quotes and jokes.
 
 ## Fork urls
 
+- 'contributor-1': [quotes-essalihi-e] ( https://github.com/ilyessee/quotes-essalihi-e.git)
+- 'contributor-2': [quotes-tching-e] (https://github.com/Angelatchg/quotes-tching-e.git)
+- 'contributor-2': [quotes-haing-e] (https://github.com/TheParalex/quotes-haing-e.git)
